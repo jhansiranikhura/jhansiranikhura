@@ -4,8 +4,7 @@
 
 
  🚀What I’m Upto :<br><br>-💻 Crafting real-world MERN stack projects to build production-ready skills.<br>-🧩 Leveling up in Competitive Programming (CP) and DSA to tackle complex problems efficiently.<br>-🚀 Diving into Advanced React, Next.js, and system design for building scalable apps.<br>-🤝 Open to collaborating on open-source MERN projects, frontend revamps, and hackathons.<br>-💡 Love clean UI, smooth user experience, and writing readable code.<br>-💬 Ask me about MERN stack, JavaScript tricks, DSA strategies, or open-source contributions.<br>-☕ I debug code while sipping coffee. <br><br><br>
-
-
+ 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jhansiranikhura) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Jhansssi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Jhansssi_) 
 
