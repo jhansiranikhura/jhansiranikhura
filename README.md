@@ -1,5 +1,8 @@
 ## Hey There !
 
+
+
+
  🚀What I’m Upto :<br><br>-💻 Crafting real-world MERN stack projects to build production-ready skills.<br>-🧩 Leveling up in Competitive Programming (CP) and DSA to tackle complex problems efficiently.<br>-🚀 Diving into Advanced React, Next.js, and system design for building scalable apps.<br>-🤝 Open to collaborating on open-source MERN projects, frontend revamps, and hackathons.<br>-💡 Love clean UI, smooth user experience, and writing readable code.<br>-💬 Ask me about MERN stack, JavaScript tricks, DSA strategies, or open-source contributions.<br>-☕ I debug code while sipping coffee. <br><br><br>
 
 
