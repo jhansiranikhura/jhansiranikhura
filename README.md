@@ -1,4 +1,4 @@
-                                                                                             ## Hey there 👋
+## Hey there 👋
 
 
 🚀 About Me : <br><br>🌱 I’m currently working on: Building MERN stack projects to strengthen my skills while adding real-world projects to my portfolio.<br><br>🤝 I’m looking to collaborate on: Open-source MERN stack projects, frontend redesigns, or any student-friendly web projects.<br><br>🆘 I’m looking for help with: Writing clean backend APIs and optimizing React performance for large applications.<br><br>📚 I’m currently learning: Advanced React patterns, Next.js, and system design for scalable web applications.<br><br>💬 Ask me about: MERN stack development, JavaScript, clean UI design, or getting started with open-source contributions.<br><br>😄 Fun fact: I can debug code while sipping Coffee and explaining it like a story!
